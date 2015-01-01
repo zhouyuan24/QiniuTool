@@ -1,0 +1,10 @@
+platform :osx , '10.10'
+pod 'AFNetworking'
+pod "Qiniu", "~> 7.0.6"
+
+
+
+
+
+
+
